@@ -9,8 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in Physics, The Chinese University of Hong Kong, 2017
-* M.Phil. in Physics, The Chinese University of Hong Kong, 2019
-* Ph.D in Physics, Temple University, 2018 -
+[Download PDF here](http://weiyigong.github.io/files/CV.pdf)

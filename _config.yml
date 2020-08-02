@@ -10,14 +10,14 @@ locale                   : "en-US"
 title                    : "Weiyi Gong & Physics"
 title_separator          : "-"
 name                     : &name "Weiyi Gong"
-description              : &description "Ph.D. student, Physics Department, Temple University"
+description              : &description "Ph.D. student in Physics from Temple University"
 url                      : https://weiyigong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "weiyigong/weiyigong.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "profile.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
+future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Weiyi Gong"
-  avatar           : "profile.png"
+  avatar           : "weiyigong.jpg"
   bio              : "Ph.D. student, Physics Department, Temple University"
   location         : "Philadelphia, PA"
   employer         :
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
