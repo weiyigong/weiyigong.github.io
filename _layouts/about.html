@@ -28,8 +28,10 @@ layout: default
               path=profile_image_path
               class=profile_image_class
               alt=page.profile.image -%}
-              {% include social.html %}
             {% endif -%}
+              <div class="contact-icons">
+                {% include social.html %}
+              </div>
             {%- if page.profile.address %}
             <div class="address">
               {{ page.profile.address }}
@@ -42,14 +44,14 @@ layout: default
             {{ content }}
           </div>
 
-            <!-- Social -->
-          {%- if page.social %}
-            <div class="social">
-              <div class="contact-icons">
-                {% include social.html %}
-              </div>
-            </div>
-          {%- endif %}
+<!--            &lt;!&ndash; Social &ndash;&gt;-->
+<!--          {%- if page.social %}-->
+<!--            <div class="social">-->
+<!--              <div class="contact-icons">-->
+<!--                {% include social.html %}-->
+<!--              </div>-->
+<!--            </div>-->
+<!--          {%- endif %}-->
 
           <!-- News -->
           {% if page.news -%}
