@@ -16,7 +16,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 I'm a PhD candidate in [Physics](https://cos.northeastern.edu/physics/) at Northeastern University, 
-supervised by [Prof. Qimin Yan](https://cos.northeastern.edu/people/qimin-yan/). I worked at the [Innovation Campus](https://www.burlington.northeastern.edu/) at Burlington, MA.
+supervised by Prof. [Qimin Yan](https://cos.northeastern.edu/people/qimin-yan/). I worked at the [Innovation Campus](https://www.burlington.northeastern.edu/) at Burlington, MA.
 
 I obtained my BSc in Physics in 2017, MPhil in Physics in 2019 from Chinese University of Hong Kong. 
 I was a PhD candidate in Physics at Temple University from 2019 to 2022, after that I was transferred to Northeastern University.
