@@ -1,35 +1,26 @@
 "Sci. Adv.":
   url: https://www.science.org/journal/sciadv
-  color: "#00369f"
 
 "Chin. Phys. Lett.":
   url: https://iopscience.iop.org/journal/0256-307X
-  color: "#00369f"
 
 "Comput. Mater. Sci.":
   url: https://www.sciencedirect.com/journal/computational-materials-science
-  color: "#00369f"
 
 "Digit. Discov.":
   url: https://pubs.rsc.org/en/journals/journal/dd
-  color: "#00369f"
 
 "arXiv":
   url: https://arxiv.org
-  color: "#00369f"
 
 "PNAS":
   url: https://www.pnas.org
-  color: "#00369f"
 
 "ACS Nano":
   url: https://pubs.acs.org/journal/ancac3
-  color: "#00369f"
 
 "npj Comput. Mater.":
   url: https://www.nature.com/npjcompumats
-  color: "#00369f"
 
 "Appl. Mater. Today":
   url: https://www.sciencedirect.com/journal/applied-materials-today
-  color: "#00369f"
