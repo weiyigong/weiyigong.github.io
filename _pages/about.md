@@ -15,16 +15,15 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a PhD candidate in [Physics](https://cos.northeastern.edu/physics/) at Northeastern University, 
-supervised by Prof. [Qimin Yan](https://cos.northeastern.edu/people/qimin-yan/). I'm working at the 
-newly-constructed [Quantum Materials and Sensors Institute](https://cos.northeastern.edu/dean-letters/northeastern-burlington-innovation-campus/) 
-at the [Innovation Campus](https://www.burlington.northeastern.edu/) at Burlington, MA.
+I'm a machine learning researcher with speciality in computational physics. 
+I obtained my PhD in Physics in 2025 at [Northeastern University](https://www.northeastern.edu/), 
+supervised by Prof. [Qimin Yan](https://cos.northeastern.edu/people/qimin-yan/). 
 
-I obtained my BSc in Physics in 2017, MPhil in Physics in 2019 from the Chinese University of Hong Kong. 
-I was a PhD candidate in Physics at Temple University from 2019 to 2022, after that I was transferred to Northeastern University.
+I obtained my BSc in Physics in 2017, MPhil in Physics in 2019 from the 
+[Chinese University of Hong Kong](https://www.cuhk.edu.hk/english/index.html). 
 
-My current research focuses on the acceleration of material discovery by combining innovations from condensed matter physics (theoretical and computational) and machine learning. 
-Specifically, I'm interested in incorporating physics principles into deep learning models for both molecules and solid-state material systems.
+My PhD research focused on the acceleration of material discovery by combining 
+innovations from condensed matter physics (theoretical and computational) and machine learning. 
 
-I'm expected to graduate In August 2025. I am actively looking for data science and machine learning positions in the industry.
+I'm actively looking for data science and machine learning positions in the industry.
 I'm really excited to apply my domain knowledge and skills to industrial problems.
